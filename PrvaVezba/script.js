@@ -35,3 +35,5 @@ function pretraga() {
    console.log(unos.value);
    axios.post("https://www.fdgjhfdgj.com", unos)
 }
+
+Nesto novo
